@@ -61,7 +61,7 @@ This project is an interactive Power BI dashboard designed to analyze and visual
 ---
 
 ## 📂 Project Files
-- `SalesDashboard.pbix` → Power BI dashboard file
+- `powerbi.pbix` → Power BI dashboard file
 - `dashboard.png` → Dashboard preview image
 
 ---
